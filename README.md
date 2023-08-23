@@ -1,16 +1,52 @@
 ### Hi there 👋
 
-<!--
-**Juanaranda/JuanAranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+</div>
+<br>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Juan José Aranda Appelgren </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+I am an Industrial Engineering student and a Data Science master candidate at University of Chile.
+</div>
+<br>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/juan-jose-aranda-appelgren-b682a1210">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:juanaranda.app@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+</p>
+
+## Some info <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="45px">
+
+<br>
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://www.reactiongifs.com/wp-content/uploads/2013/06/supa-hot-fire.gif">
+
+- 🍃 My main interests are technology and sustainable development, and I am a firm believer that artificial intelligence is a great 
+     ally in the battle against climate change. 
+- 🏫 I am a candidate for a master's degree in computer science at the [University of Chile ](https://www.dcc.uchile.cl/)
+- 🏀 I am part of the FCFM`s basketball team
+- 🕹️ I like to play playstation and watch series
+
+<br>
+
+<br>
+
+## Tech Stack 🛠️
+
+Programming Languages
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+
+Data Science and Machine Learning Frameworks
+
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white])
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white])
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white])
+![PSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
