@@ -31,7 +31,7 @@ I am an Industrial Engineering student and a Data Science master candidate at Un
      ally in the battle against climate change. 
 - 🏫 I am a candidate for a master's degree in computer science at the [University of Chile ](https://www.dcc.uchile.cl/)
 - 🏀 I am part of the FCFM`s basketball team
-- 🕹️ I like to play playstation and watch series
+
 
 <br>
 
