@@ -42,6 +42,7 @@ I am an Industrial Engineering student and a Data Science master candidate at Un
 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![SQL]
 
 Data Science and Machine Learning Frameworks
 
