@@ -25,10 +25,10 @@ I am an Industrial Engineering student and a Data Science master candidate at Un
 
 <br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://www.reactiongifs.com/wp-content/uploads/2013/06/supa-hot-fire.gif">
+<img align="right" width=200px height=200px alt="side_sticker" src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWF6bW1mNHlsdGVhODY5ZHp5ZTJnNWN5amo0ZGpoZ3V1bzQ5Z216aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zhRA0okWxTGiu78uSk/giphy.gif">
 
 - I’m passionate about innovation through artificial intelligence, combining skills in machine learning and data analysis with a curious mindset and a focus on finding more efficient and sustainable solutions.
-I have experience working with generative AI and its application in the improvement and optimization of processes and services. I'm always looking for new challenges where I can contribute creatively to generate a positive impact through my work.. 
+I have experience working with generative AI and its application in the improvement and optimization of processes and services. I'm always looking for new challenges where I can contribute creatively to generate a positive impact through my work. 
 - 🏫 I am a candidate for a master's degree in computer science at the [University of Chile ](https://www.dcc.uchile.cl/)
 - 🏀 I am part of the FCFM`s basketball team
 
