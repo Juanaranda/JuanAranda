@@ -8,7 +8,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Juan José Aranda Appelgren </h1>
 
 <div align="center">
-I am an Industrial Engineering student and a Data Science master candidate at University of Chile.
+I am an Industrial Engineer & Master in Data Science.
 </div>
 <br>
 
