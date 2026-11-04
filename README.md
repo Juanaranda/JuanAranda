@@ -8,7 +8,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Juan José Aranda Appelgren </h1>
 
 <div align="center">
-I am an Industrial Engineer & Master in Data Science.
+Industrial Engineer · Master in Data Science · Machine Learning Engineer at <a href="https://banca.me">Bancame</a>
 </div>
 <br>
 
@@ -27,11 +27,10 @@ I am an Industrial Engineer & Master in Data Science.
 
 <img align="right" width=200px height=200px alt="side_sticker" src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWF6bW1mNHlsdGVhODY5ZHp5ZTJnNWN5amo0ZGpoZ3V1bzQ5Z216aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zhRA0okWxTGiu78uSk/giphy.gif">
 
-- I’m passionate about innovation through artificial intelligence, combining skills in machine learning and data analysis with a curious mindset and a focus on finding more efficient and sustainable solutions.
-I have experience working with generative AI and its application in the improvement and optimization of processes and services. I'm always looking for new challenges where I can contribute creatively to generate a positive impact through my work. 
-- 🏫 I am a candidate for a master's degree in computer science at the [University of Chile ](https://www.dcc.uchile.cl/)
-- 🏀 I am part of the FCFM`s basketball team
-
+- 💼 For the past year I've been working as a **Machine Learning Engineer at [Bancame](https://banca.me)**, a Chilean fintech focused on credit risk. I build and expand credit-risk models that combine multiple data providers, and I also work on backend development and internal tooling for our BNPL product.
+- 🎓 I hold a **Master's degree in Data Science** from the [University of Chile](https://www.dcc.uchile.cl/).
+- 🤖 I'm passionate about innovation through artificial intelligence — machine learning, data analysis and generative AI applied to making processes and services more efficient. Always looking for new challenges where I can contribute creatively and generate a positive impact.
+- 🏀 I play on the FCFM basketball team.
 
 <br>
 
@@ -39,15 +38,19 @@ I have experience working with generative AI and its application in the improvem
 
 ## Tech Stack 🛠️
 
-Programming Languages
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-FFD43B?style=flat-square&logo=sql&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-FFD43B?style=flat-square&logo=postgresql&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-Data Science and Machine Learning Frameworks
+**Data Science & Machine Learning**
 
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white])
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white])
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white])
-![PSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
