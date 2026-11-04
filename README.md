@@ -30,7 +30,6 @@ Industrial Engineer · Master in Data Science · Machine Learning Engineer at <a
 - 💼 For the past year I've been working as a **Machine Learning Engineer at [Bancame](https://banca.me)**, a Chilean fintech focused on credit risk. I build and expand credit-risk models that combine multiple data providers, and I also work on backend development and internal tooling for our BNPL product.
 - 🎓 I hold a **Master's degree in Data Science** from the [University of Chile](https://www.dcc.uchile.cl/).
 - 🤖 I'm passionate about innovation through artificial intelligence — machine learning, data analysis and generative AI applied to making processes and services more efficient. Always looking for new challenges where I can contribute creatively and generate a positive impact.
-- 🏀 I play on the FCFM basketball team.
 
 <br>
 
